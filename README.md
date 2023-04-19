@@ -1,5 +1,3 @@
 # bankCustomerSatisfaction-Data-Analysis
 
-- load data 
-- edit values
-- 
+- train_test k fold test WIP
